@@ -1,0 +1,25 @@
+.input-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    -webkit-appearance: none;
+    outline: none;
+    width: 20vw;
+    height: 40px;
+    font-size: 20px;
+}
+
+.submit-button {
+    margin-left: 20px;
+    height: 25px;
+}
+
+.result-container {
+    word-wrap: break-word;
+    clear: both;
+}
